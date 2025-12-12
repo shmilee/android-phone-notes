@@ -1,0 +1,4 @@
+Host *
+    Protocol 2
+    IdentityFile ~/.ssh/id_ed25519
+    ServerAliveInterval 60
