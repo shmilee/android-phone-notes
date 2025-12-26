@@ -232,6 +232,9 @@ done
 * [GoldenDict](https://github.com/goldendict/goldendict/issues/1700#issuecomment-2442743656)
     - 下载 http://goldendict.mobi/downloads/android/paid/
     - 获取 [goldendict-key.txt](http://goldendict.mobi/free.php)
+* [Tomato](https://github.com/nsh07/Tomato)
+    - 下载 https://f-droid.org/packages/org.nsh07.pomodoro/
+    - 息屏显示 AOD；权限，通知、锁屏显示
 * [阅读](https://github.com/gedoor/legado)
 
 ```bash
